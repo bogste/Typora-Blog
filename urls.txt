@@ -1,6 +1,5 @@
 https://www.jackeiss.com/p/Linux标准输出编码问题
 https://www.jackeiss.com/p/使用nginx-proxy部署web应用
 https://www.jackeiss.com/p/Top15正式上线！
-https://www.jackeiss.com/p/一个简单的五子棋算法
 https://www.jackeiss.com/p/使用py2exe打包Python程序
 https://www.jackeiss.com/p/Windows记事本实用技巧

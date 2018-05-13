@@ -56,11 +56,6 @@ class AchiveHandler(BaseHandler):
         self.render('achive.html', posts=options.config['posts'])
 
 
-class ShareHandler(BaseHandler):
-    def get(self):
-        self.render('share.html')
-
-
 class ProductHandler(BaseHandler):
     def get(self):
         self.render('product.html')
